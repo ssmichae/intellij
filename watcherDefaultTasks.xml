@@ -25,7 +25,7 @@
         <option name="arguments" value="--no-cache --update $FileName$:$ProjectFileDir$/dist/css/$FileNameWithoutExtension$.min.css --style compressed" />
         <option name="checkSyntaxErrors" value="true" />
         <option name="description" />
-        <option name="exitCodeBehavior" value="ALWAYS" />
+        <option name="exitCodeBehavior" value="ERROR" />
         <option name="fileExtension" value="UNKNOWN" />
         <option name="immediateSync" value="true" />
         <option name="name" value="SCSS" />
