@@ -26,7 +26,7 @@
         <option name="checkSyntaxErrors" value="true" />
         <option name="description" />
         <option name="exitCodeBehavior" value="ERROR" />
-        <option name="fileExtension" value="UNKNOWN" />
+        <option name="fileExtension" value="scss" />
         <option name="immediateSync" value="true" />
         <option name="name" value="SCSS" />
         <option name="output" value="$ProjectFileDir$/dist/css/$FileNameWithoutExtension$.min.css" />
@@ -36,7 +36,7 @@
         <option name="outputFromStdout" value="false" />
         <option name="program" value="/usr/local/bin/sass" />
         <option name="runOnExternalChanges" value="true" />
-        <option name="scopeName" value="All Places" />
+        <option name="scopeName" value="Project Files" />
         <option name="trackOnlyRoot" value="true" />
         <option name="workingDir" value="$FileDir$" />
         <envs />
